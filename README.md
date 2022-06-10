@@ -11,3 +11,5 @@ using malloc.</p>
   allowing us to access our 26 char array using pointer notation. Understaing this is the essence of the challenge.</p>
   <p>In the loop the statement pa++ moves the pointer up one space in memory since this is an array of chars it is a single byte.</p>
 
+<h3>functionpointerarray.c</h3>
+Array list of pointers to functions. 
